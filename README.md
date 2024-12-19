@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on Some exciting projects
 
-- 👨‍💻 All of my projects are available at [https://987-ebon.vercel.app/](https://987-ebon.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://mahakwebsitee.vercel.app/]([https://mahakwebsitee.vercel.app/]
 
-- 📝 I regularly writes blogs on [Medium.t](Medium.t)
+- 📝 I regularly writes blogs on [https://hashnode.com/@mahak15](https://hashnode.com/@mahak15)
 
 - 💬 Ask me about Tech,AI & web3
 
