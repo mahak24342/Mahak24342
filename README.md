@@ -1,42 +1,63 @@
-## Hi there 👋
+<h1 align="center">Hi! 👋 I'm Mahak Porwal</h1>
+<h3 align="center">A Fullstack Developer Who Loves Building & Innovating</h3>
 
-<!--
-**mahak24342/Mahak24342** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🌱 About Me
+I’m a fullstack developer passionate about exploring new technologies and building projects that solve real problems. Recently, I’ve been **active in the Web3 space**, learning and experimenting with blockchain development.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Beyond code, I love being part of communities, sharing knowledge, and collaborating on innovative ideas. If this sparks your interest, let’s connect and create something amazing together! 🚀
 
-<h1 align="center"> I'm Mahak Porwal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+---
 
-- 🌱 I’m currently learning Blockchain development
+### 👨‍💻 Portfolio & Blogs
+- **Portfolio:** [https://mahakportfolio.vercel.app](https://mahakportfolio.vercel.app)  
+- **Blogs:** [https://hashnode.com/@mahak15](https://hashnode.com/@mahak15)
 
-- 👯 I’m looking to collaborate on Some exciting projects
+---
 
-- 👨‍💻 All of my projects are available at [https://mahakwebsitee.vercel.app/]([https://mahakwebsitee.vercel.app/]
+### 📫 Connect with Me
+[![Email](https://img.shields.io/badge/Email-porwalmahak784@gmail.com-blue?style=flat&logo=gmail)](mailto:porwalmahak784@gmail.com)  
+[![Twitter](https://img.shields.io/badge/Twitter-@mahak_porwal6-blue?style=flat&logo=twitter)](https://twitter.com/mahak_porwal6)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahak%20Porwal-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mahak-porwal-43b3b420b)
 
-- 📝 I regularly writes blogs on [https://hashnode.com/@mahak15](https://hashnode.com/@mahak15)
+---
 
-- 💬 Ask me about Tech,AI & web3
+### 🛠 Tech Stack
 
-- 📫 How to reach me porwalmahak784@gmail.com
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://www.w3.org/html/)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)](https://redux.js.org/)
+[![Zustand](https://img.shields.io/badge/Zustand-00C9A7?style=flat)](https://zustand-demo.pmnd.rs/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
+[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)](https://graphql.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](https://www.cprogramming.com/)
+[![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://www.w3schools.com/cs/)
+[![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)](https://docs.soliditylang.org/)
+[![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)](https://ethereum.org/en/)
+[![Web3.js](https://img.shields.io/badge/Web3.js-1E1E1E?style=flat&logo=web3dotjs&logoColor=white)](https://web3js.readthedocs.io/)
+[![Hardhat](https://img.shields.io/badge/Hardhat-000000?style=flat&logo=hardhat&logoColor=white)](https://hardhat.org/)
+[![Truffle](https://img.shields.io/badge/Truffle-5C2D91?style=flat&logo=truffle&logoColor=white)](https://trufflesuite.com/)
+[![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)](https://jestjs.io/)
+[![Vitest](https://img.shields.io/badge/Vitest-4BC0C0?style=flat&logo=vitest&logoColor=white)](https://vitest.dev/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)](https://vercel.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 
-- ⚡ About Me I am a fullstack developer who loves exploring different techs.I enjoy building unique projects.Beyind Code,I am all about communities,sharing knowledge and innovating together.If it sparks your interest,let's connect and explore how we can connect something amazing.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mahak_porwal6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahak_porwal6" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mahak-porwal-43b3b420b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahak-porwal-43b3b420b" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
+### ⚡ Fun Fact
+I enjoy exploring **emerging tech, contributing to communities**, and building projects that combine **Fullstack & Web3**.  
+
